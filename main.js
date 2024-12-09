@@ -121,11 +121,3 @@ const item2 = data2.map((item) => {
     `
 });
 document.querySelector('.temp4_list').innerHTML += item2.join('');
-// document.querySelectorAll('.section4__list, .section2__list').forEach((element) => {
-//     element.innerHTML += `
-//     <button class="section2__list__more">
-//         <h4>Xem thêm</h4>
-//         <i class="fa-solid fa-chevron-right"></i>
-//     </button>
-// `;
-// })
