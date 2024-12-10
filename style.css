@@ -107,6 +107,8 @@ body{
     gap: 20px;
 }
 .button1{
+    justify-content: center;
+    display: flex;
     width: 160px;
     height: 50px;
     margin-top: 20px;
@@ -125,6 +127,8 @@ body{
     line-height: 24px;
 }
 .button2{
+    justify-content: center;
+    display: flex;
     width: 160px;
     height: 50px;
     margin-top: 20px;
