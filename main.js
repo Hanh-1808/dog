@@ -79,7 +79,7 @@ const item = data.map((item) => {
 
     return `
         <ul class="temp2_list_item">
-            <img src=".../Lab03/dog/dog${item.order}.png" alt="">
+            <img src="../dog/dog${item.order}.png" alt="">
             <div class="temp2_content"> 
                 <div class="name">
                     <strong>${item.infor}</strong>
@@ -103,7 +103,7 @@ const item2 = data2.map((item) => {
     return `
         <div class="list_item">
             <div class="temp4_img">
-                <img src="../Lab03/dog/dogs${item.order}.png" class="img_4">
+                <img src="../dog/dogs${item.order}.png" class="img_4">
             </div>
             <div class="temp4_content">
                 <button class="box">
